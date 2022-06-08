@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhada-mandavi
 - 👀 I am a Data Enthusiast. I am open to Data analyst roles for now.
 - 🌱 I’m currently learning Machine Learning and improving my command on DSA
-- 🎯 I enjoy working with different data visualization and manipulation tools like Tableau, Google data studio and Excel.
+- 📍 I enjoy working with different data visualization and manipulation tools like Tableau, Google data studio and Excel.
 - 📫 You can mail me at shubhadamandavi12@gmail.com
 
 <!---
